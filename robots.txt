@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bezdepozitnyy-bonus-za-registraci-d8026.github.io
+Sitemap: https://bezdepozitnyy-bonus-za-registraci-d8026.github.io/sitemap.xml
